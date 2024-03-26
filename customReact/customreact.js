@@ -15,7 +15,7 @@ container.appendChild(domElement)
   container.appendChild(domElement)
   }
   
-S
+
 
 const reactElement = {
   type: "a",
